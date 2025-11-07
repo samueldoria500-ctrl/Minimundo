@@ -21,4 +21,4 @@
 -- - Se for usar PostgreSQL, trocar AUTO_INCREMENT por SERIAL, LAST_INSERT_ID() por RETURNING id, e ajustar tipos/funcionalidades.
 -- - Para testes em MySQL Workbench: abra um novo SQL script, cole o conteúdo por partes (create -> inserts -> queries) para evitar constraints temporárias.
 
--- FIM
+-- oi
